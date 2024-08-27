@@ -2,6 +2,22 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Todo List App
+
+This is a simple Todo List application built with React. The app allows users to:
+
+- Add new tasks
+- Mark tasks as completed
+- Remove tasks
+- View tasks in a list format
+
+### Screenshot
+
+Here is a screenshot of the Todo List app:
+
+![Todo List App](public/images/screenshot.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
